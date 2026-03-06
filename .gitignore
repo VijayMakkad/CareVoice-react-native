@@ -39,3 +39,19 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# AI / Agent / GSD Tools
+.agent/
+.agents/
+_agent/
+_agents/
+.gemini/
+.gsd/
+gsd-style.md
+project_rules.md
+PROJECT_RULES.md
+STATE.md
+SPEC.md
+ROADMAP.md
+ARCHITECTURE.md
+STACK.md
